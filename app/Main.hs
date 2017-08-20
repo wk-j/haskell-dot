@@ -1,5 +1,4 @@
 -- stack runghc --package shake --package filepath
-
 module Main where
 
 import qualified Development.Shake  as S
